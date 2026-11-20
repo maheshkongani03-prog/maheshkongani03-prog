@@ -1,6 +1,6 @@
 # Hi, I'm Mahesh 
 
-Full-stack developer from Bangalore. I graduated in Electronics & Communication Engineering (B.Tech, Amrita Vishwa Vidyapeetham, 2026) and build backend-heavy web apps with Python, JavaScript and PostgreSQL.
+Full-stack developer. I graduated in Electronics & Communication Engineering (B.Tech, Amrita Vishwa Vidyapeetham, 2026) and build backend-heavy web apps with Python, JavaScript and PostgreSQL.
 
 ## What I work with
 
